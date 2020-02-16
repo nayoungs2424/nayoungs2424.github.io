@@ -20,6 +20,8 @@
   <li>Seoul. South Korea.</li>
   <li><strong>Android(, iOS,Unity2D)</strong> Developer</li>
   <li><strong>Freelancer</strong> (2018.01.01 ~ )</li>
+  <li>Working in Hanka</li>
+  <li>Working in Howlab</li>
 </ul>
 
 <h2 id="links">Links</h2>
