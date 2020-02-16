@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Hyopang World!
+title: Nayoungs2424 World!
 
 # Short description of your site
-description: 초보 모바일 개발자의 개발일기
+description: 모바일 개발자의 개발일기
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,7 +22,7 @@ description: 초보 모바일 개발자의 개발일기
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - GitHub : "https://github.com/HyopangWorld"
+    - GitHub : "https://github.com/nayoungs2424World"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -66,7 +66,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "hyopangworld@gmail.com"
+  email: "nayoungs2424@gmail.com"
   github: Hyowon Kim
 #  reddit: yourname
 #  linkedin: daattali
@@ -89,7 +89,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "hyopangworld.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
