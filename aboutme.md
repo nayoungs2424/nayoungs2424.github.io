@@ -85,11 +85,7 @@
 <ul>
  <li>2018.04.01 - 2018.10.31 :: <strong>Android/iOS StreetTalk </strong> Android Dev,Ios Dev</li>
 </ul>
-<h2 id="languages">Languages</h2>
-<ul>
-  <li><strong>English</strong></li>
-  <li><strong>Korean</strong> - Native</li>
-</ul>
+
 
 <h3 id="2017">2017</h3>
 <ul>
