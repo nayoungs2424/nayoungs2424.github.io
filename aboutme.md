@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0039)https://captainwonjong.github.io/about/ -->
+<!-- saved from url=(0039)https://nayoungs2424.github.io/About/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,7 +16,7 @@
 </header>
 <div class="page">
   <div class="page-title">About</div>
-  <h2 id="wonjong-lee-captainwonjong">Sung Su KiM</h2>
+  <h2>Sung Su KiM</h2>
 <ul>
   <li>Seoul. South Korea.</li>
   <li><strong>Android(, iOS,Unity2D)</strong> Developer</li>
