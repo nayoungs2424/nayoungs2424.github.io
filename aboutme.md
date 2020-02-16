@@ -75,13 +75,25 @@
 
 <h3 id="2019">2019</h3>
 <ul>
-  <li>2019.11.01 - 2020:02.28 :: <strong>Unity(c#) Secret Project</strong> - This is a secret project and can not be disclosed.</a> Unity Dev</li>
+  <li>2019.11.01 - 2020:02.28 :: <strong>Unity(c#) 키네스 Project</strong>  </a> Unity Dev</li>
   <li>2019.06.22 - 2019.10.31 :: <strong>카페통통 안드로이드앱</strong> Android Dev (for 4.0 Project)</li>
+  <li>2019.03.01 - 2019.05.31 :: <strong>관세청 SFitness 안드로이드앱</strong> Android Dev </li>
+  <li>2018.11.01 - 2019.02.22 :: <strong>PowerFC(보험설계사 가격비교 앱)</strong> Android Dev </li>
 </ul>
 
 <h3 id="2018">2018</h3>
 <ul>
- <li>2018.01.01 - 2018.12.31 :: <strong>Android/iOS Secret Project</strong> - This is a secret project and can not be disclosed.</li>
+ <li>2018.04.01 - 2018.10.31 :: <strong>Android/iOS StreetTalk </strong> Android Dev,Ios Dev</li>
+</ul>
+<h2 id="languages">Languages</h2>
+<ul>
+  <li><strong>English</strong></li>
+  <li><strong>Korean</strong> - Native</li>
+</ul>
+
+<h3 id="2017">2017</h3>
+<ul>
+ <li>2017.12 - 2018.3 :: <strong>iOS 홀딱바나나 </strong> Ios Dev</li>
 </ul>
 <h2 id="languages">Languages</h2>
 <ul>
