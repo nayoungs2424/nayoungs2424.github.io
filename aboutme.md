@@ -105,7 +105,5 @@
 </ul>
 
 <div class="footer">
-  <hr>
-  
-  © 2020 KimSungSu. All rights reserved.
+  <hr> © 2020 KimSungSu. All rights reserved.
 </div>
