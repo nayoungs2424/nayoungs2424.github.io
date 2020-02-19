@@ -6,14 +6,19 @@
 
 </head>
 
-<body>
-  <div class="content-container">
     <header>
   <div class="header-small">
     <a href="https://github.com/nayoungs2424">KimSungSu</a>
   </div>
+
 </header>
+
+
+<body>
+  <div class="content-container">
 <div class="page">
+
+
   <div class="page-title">About</div>
   <h2>Sung Su KiM</h2>
 <ul>
@@ -104,9 +109,3 @@
   
   © 2020 KimSungSu. All rights reserved.
 </div>
-
-  
-
-
-</body>
-</html>
