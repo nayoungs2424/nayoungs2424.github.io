@@ -5,8 +5,6 @@
 
 
 </head>
-
-    <header>
   <div class="header-small">
     <a href="https://github.com/nayoungs2424">KimSungSu</a>
   </div>
@@ -17,8 +15,6 @@
 <body>
   <div class="content-container">
 <div class="page">
-
-
   <div class="page-title">About</div>
   <h2>Sung Su KiM</h2>
 <ul>
@@ -103,7 +99,13 @@
   <li><strong>English</strong></li>
   <li><strong>Korean</strong> - Native</li>
 </ul>
+</div>
+
 
 <div class="footer">
   <hr> © 2020 KimSungSu. All rights reserved.
 </div>
+
+</body>
+</html>
+
