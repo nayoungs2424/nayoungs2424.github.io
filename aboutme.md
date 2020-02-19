@@ -101,11 +101,11 @@
 </ul>
 </div>
 
+</body>
 
 <div class="footer">
   <hr> © 2020 KimSungSu. All rights reserved.
 </div>
 
-</body>
 </html>
 
