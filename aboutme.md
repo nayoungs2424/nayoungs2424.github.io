@@ -1,15 +1,16 @@
-<!-- saved from url=(0039)https://nayoungs2424.github.io/About/ -->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- saved from url=(0039)https://nayoungs2424.github.io/aboutme/ -->
+<html lang="en">
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-
-</head>
   <div class="header-small">
     <a href="https://github.com/nayoungs2424">KimSungSu</a>
   </div>
 
-</header>
+</head>
+ 
+
 
 
 <body>
@@ -101,11 +102,11 @@
 </ul>
 </div>
 
-</body>
+
 
 <div class="footer">
   <hr> © 2020 KimSungSu. All rights reserved.
 </div>
 
-</html>
+
 
